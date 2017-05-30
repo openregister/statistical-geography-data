@@ -2,13 +2,32 @@
 
 library(tidyverse)
 library(readxl)
+library(stringr)
 
 codes_path <- "../lists/ons/RGC_DEC_2016_UK.csv"
 spreadsheet_path <- "../lists/ons/RGC_DEC_2016_UK.xlsx"
 
 #' There are 167 rows in the code file
-codes <- read_csv(codes_path)
+codes <- read_csv(codes_path,
+                  col_types = "?????????????????_", # ignore trailing comma
+                  na = c("", "n/a"))
+# Ignore warning "Missing column names filled in: 'X18' [18]
 nrow(codes)
+
+#' Not all codes entered the register immediately
+codes %>%
+  filter(`Date entity introduced on RGC` != `Entity start date`) %>%
+  select(`Date entity introduced on RGC`, `Entity start date`)
+
+#' All the `Related entity codes` exist
+
+# This should produce a data frame with no rows
+codes %>%
+  select(`Related entity codes`) %>%
+  mutate(`Related entity codes` = str_split(`Related entity codes`, ", ")) %>%
+  unnest() %>%
+  distinct() %>%
+  anti_join(codes, by = c("Related entity codes" = "Entity code"))
 
 #' There are 122 sheets in the spreadsheet
 sheets <- excel_sheets(spreadsheet_path)
