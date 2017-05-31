@@ -20,7 +20,6 @@ codes %>%
   select(`Date entity introduced on RGC`, `Entity start date`)
 
 #' All the `Related entity codes` exist
-
 # This should produce a data frame with no rows
 codes %>%
   select(`Related entity codes`) %>%
@@ -28,6 +27,27 @@ codes %>%
   unnest() %>%
   distinct() %>%
   anti_join(codes, by = c("Related entity codes" = "Entity code"))
+
+#' `Entity coverage` distinguishes between `Entity name`s
+nrow(codes) # Distinct rows
+
+codes %>%
+  distinct(`Entity name`, `Entity coverage`) %>%
+  nrow() # Distinct rows using only 'name' and 'coverage' (same as overall distinct)
+
+codes %>%
+  distinct(`Entity name`) %>%
+  nrow() # Distinct rows using only 'name' and NOT 'coverage' (less than overall)
+
+#' Unique values of `Entity coverage`
+table(codes$`Entity coverage`)
+#
+#   Channel Islands           England England and Wales     Great Britain
+#                 2                57                 4                 1
+#       Isle of Man  Northern Ireland          Scotland    United Kingdom
+#                 3                15                41                 2
+#             Wales
+#                42
 
 #' There are 122 sheets in the spreadsheet
 sheets <- excel_sheets(spreadsheet_path)
