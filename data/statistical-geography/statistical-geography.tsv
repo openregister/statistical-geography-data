@@ -1,168 +1,168 @@
 statistical-geography	name	geographic-domain	start-date	end-date
-E92	Country	England	2009-01-01	
-E00	Output Areas	England	2009-01-01	
-E01	Super Output Areas, Lower Layer	England	2009-01-01	
-E02	Super Output Areas, Middle Layer	England	2009-01-01	
-E04	Civil Parishes	England	2009-01-01	
-E05	Electoral Wards/Divisions	England	2009-01-01	
-E06	Unitary Authorities	England	2009-01-01	
-E07	Non-metropolitan Districts	England	2009-01-01	
-E08	Metropolitan Districts	England	2009-01-01	
-E09	London Boroughs	England	2009-01-01	
-E10	Counties	England	2009-01-01	
-E11	Metropolitan Counties	England	2009-01-01	
-E12	Regions	England	2009-01-01	
-E13	Inner and Outer London	England	2009-01-01	
-E14	Westminster Parliamentary Constituencies	England	2009-01-01	
-E15	European Electoral Regions	England	2009-01-01	
-E16	Primary Care Trusts	England	2009-01-01	
-E17	Care Trusts	England	2009-01-01	
-E18	Strategic Health Authorities	England	2009-01-01	
-E19	Pan Strategic Health Authorities	England	2009-01-01	
-E20	Cancer Registries	England	2009-01-01	
-E21	Cancer Networks	England	2009-01-01	
-E22	Community Safety Partnerships	England	2009-01-01	
-E23	Police Force Areas	England	2009-01-01	
-E24	Local Learning and Skills Council areas	England	2009-01-01	
-E25	Primary Urban Areas	England	2009-01-01	
-E26	National Parks	England	2009-01-01	
-E27	New Deal for Communities	England	2009-01-01	
-E28	Registration Districts	England	2009-01-01	
-E29	Registration Sub-district	England	2009-01-01	
-E30	Travel to Work Areas	England	2009-01-01	
-E31	Fire and Rescue Authorities	England	2009-01-01	
-E32	London Assembly Constituencies	England	2009-05-06	
-E33	Workplace Zones	England	2013-01-31	
-E34	Built-up Areas	England	2013-06-27	
-E35	Built-up Area sub-divisions	England	2013-06-27	
-E36	Census Merged Wards	England	2013-01-31	
-E37	Local Enterprise Partnerships	England	2012-07-31	
-E38	Clinical Commissioning Groups	England	2013-04-01	
-E39	NHS Commissioning Region Geographies	England	2013-04-01	
-E40	NHS Commissioning Regions	England	2013-04-01	
-E41	Census Merged Local Authority Districts	England	2013-04-01	
-E42	Census Merged Counties	England	2013-04-01	
-E43	Non-Civil Parished Areas	England	2013-11-01	
-E45	Public Health England Centres	England	2014-06-03	
-E46	Public Health England Regions	England	2014-06-03	
-E47	Combined Authorities	England	2015-07-10	
-E48	Local Resilience Forums	England	2015-07-23	
-E49	Enterprise Zones	England	2016-02-01	
-E50	Waste Authorities	England	2016-04-22	
-E51	Development Corporations	England	2016-04-22	
-E52	LEP - overlapping part	England	2016-04-22	
-E53	LEP - non overlapping part	England	2016-04-22	
-E54	Sustainability and Transformation Plan Footprints	England	2016-04-22	
-E55	Strategic Clinical Networks	England	2016-09-01	
-E56	Cancer Alliances	England	2016-11-23	
-E57	National Cancer Vanguards	England	2016-11-23	
-W92	Country	Wales	2009-01-01	
-W00	Output Areas	Wales	2009-01-01	
-W01	Super Output Areas, Lower Layer	Wales	2009-01-01	
-W02	Super Output Areas, Middle Layer	Wales	2009-01-01	
-W03	Super Output Areas, Upper Layer	Wales	2009-01-01	
-W04	Communities	Wales	2009-01-01	
-W05	Electoral Wards	Wales	2009-01-01	
-W06	Unitary Authorities	Wales	2009-01-01	
-W07	Westminster Parliamentary Constituencies	Wales	2009-01-01	
-W08	European Electoral Regions	Wales	2009-01-01	
-W09	National Assembly for Wales Constituencies	Wales	2009-01-01	
-W10	National Assembly for Wales Electoral Regions	Wales	2009-01-01	
-W11	Local Health Boards	Wales	2009-01-01	
-W12	Cancer Registries	Wales	2009-01-01	
-W13	Cancer Networks	Wales	2009-01-01	
-W14	Community Safety Partnerships	Wales	2009-01-01	
-W15	Police Force Areas	Wales	2009-01-01	
-W16	Department for Children, Education, Lifelong Learning and Skills, WG	Wales	2009-01-01	
-W18	National Parks	Wales	2009-01-01	
-W19	National Assembly Economic Regions	Wales	2009-01-01	
-W20	Registration Districts	Wales	2009-01-01	
-W21	Registration Sub-district	Wales	2009-01-01	
-W22	Travel to Work Areas	Wales	2009-01-01	
-W23	Spatial Plan Areas	Wales	2009-01-01	
-W24	Spatial Plan Sub-areas	Wales	2009-01-01	
-W25	Fire and Rescue Authorities	Wales	2009-01-01	
-W26	Strategic Regeneration Areas	Wales	2010-05-06	
-W27	Strategic Regeneration Sub-areas	Wales	2010-05-06	
-W28	Transport Consortia Areas	Wales	2010-05-06	
-W29	Agricultural Regions	Wales	2010-10-31	
-W30	Agricultural Small Areas	Wales	2010-10-31	
-W31	Non-National Park Area	Wales	2010-10-31	
-W32	Non-Strategic Regeneration Area	Wales	2010-10-31	
-W33	Communities First Areas	Wales	2011-01-01	
-W34	Non-Communities First Areas	Wales	2011-01-01	
-W35	Workplace Zones	Wales	2013-01-31	
-W36	Footprint Regions for Public Service Collaboration	Wales	2011-09-01	
-W37	Built-up Areas	Wales	2013-06-27	
-W38	Built-up Area sub-divisions	Wales	2013-06-27	
-W39	Census Merged Wards	Wales	2013-01-31	
-W40	Census Merged Local Authority Districts	Wales	2013-04-01	
-W41	Local Resilience Forums	Wales	2015-07-23	
-S92	Country	Scotland	2009-01-01	
-S00	Output Areas	Scotland	2009-01-01	
-S01	Data Zones	Scotland	2009-01-01	
-S02	Intermediate Zones	Scotland	2009-01-01	
-S03	Community Health Partnerships	Scotland	2009-01-01	
-S04	Regeneration Outcome Agreement Areas - Scotland	Scotland	2009-01-01	
-S05	Regeneration Outcome Areas - Community Planning Partnerships	Scotland	2009-01-01	
-S06	Regeneration Outcome Areas - Local Areas	Scotland	2009-01-01	
-S07	Regional Transport Partnerships	Scotland	2009-01-01	
-S08	Health Board areas	Scotland	2009-01-01	
-S09	Enterprise Regions	Scotland	2009-01-01	
-S10	Urban Regeneration Companies	Scotland	2009-01-01	
-S11	Strategic Development Plan Areas	Scotland	2009-01-01	
-S12	Council Areas	Scotland	2009-01-01	
-S13	Electoral Wards	Scotland	2009-01-01	
-S14	Westminster Parliamentary Constituencies	Scotland	2009-01-01	
-S15	European Electoral Regions	Scotland	2009-01-01	
-S16	Scottish Parliamentary Constituencies	Scotland	2009-01-01	
-S17	Scottish Parliamentary Regions	Scotland	2009-01-01	
-S19	Localities	Scotland	2009-01-01	
-S20	Settlements	Scotland	2009-01-01	
-S21	National Parks	Scotland	2009-01-01	
-S22	Travel to Work Areas	Scotland	2009-01-01	
-S23	Police Force Areas	Scotland	2009-01-01	
-S24	Highlands and Islands Enterprise	Scotland	2009-01-01	
-S25	Community Justice Authorities	Scotland	2009-01-01	
-S26	Community Health Partnerships sub-areas	Scotland	2013-11-01	
-S27	ISD Health Board of Treatment	Scotland	2013-11-01	
-S28	Census Detailed Characteristics	Scotland	2013-11-01	
-S29	Census Local Characteristics	Scotland	2013-11-01	
-S30	Local Administrative Units 1	Scotland	2013-11-01	
-S31	Local Administrative Units 2	Scotland	2013-11-01	
-S32	Scottish Police Divisions	Scotland	2013-11-01	
-S33	Broad Rental Market Areas	Scotland	2015-07-09	
-S34	Workplace Zones	Scotland	2016-10-20	
-S35	Civil Parish	Scotland	2016-02-01	
-S36	Island Groups	Scotland	2016-02-01	
-S37	Integration Authorities	Scotland	2016-02-01	
-S38	Scottish Fire and Rescue Service	Scotland	2016-02-01	
-S39	Scottish Fire and Rescue Local Senior Officer Areas	Scotland	2016-02-01	
-S40	Scottish Fire and Rescue Service Delivery Areas	Scotland	2016-02-01	
-N92	Country	Northern Ireland	2010-05-06	
-N00	Small Areas	Northern Ireland	2013-01-31	
-N06	Westminster Parliamentary Constituencies	Northern Ireland	2010-05-06	
-N07	European Electoral Regions	Northern Ireland	2010-05-06	
-N08	Electoral Wards	Northern Ireland	2015-04-01	
-N09	Local Government Districts	Northern Ireland	2015-04-01	
-N10	District Electoral Areas	Northern Ireland	2014-05-22	
-N11	Settlement 2015	Northern Ireland	2015-01-29	
-N12	Travel to Work Areas	Northern Ireland	2015-07-31	
-N19	Workplace Zones	Northern Ireland	2016-10-20	
-N23	Police Force Areas	Northern Ireland	2016-02-01	
-N24	Police Force Districts	Northern Ireland	2016-02-01	
-N31	Northern Ireland Fire and Rescue Service	Northern Ireland	2016-02-01	
-N32	Northern Ireland Fire and Rescue Service Areas	Northern Ireland	2016-02-01	
-N33	Northern Ireland Fire and Rescue Service Districts	Northern Ireland	2016-02-01	
-K01	Travel to Work Areas	United Kingdom	2009-01-01	
-K02	United Kingdom	United Kingdom	2010-10-31	
-K03	Great Britain	Great Britain	2010-10-31	
-K04	England and Wales	England and Wales	2010-10-31	
-K05	Built Up Areas	England and Wales	2013-06-27	
-K06	Built Up Area sub divisions	England and Wales	2013-06-27	
-L93	British Crown Dependencies	Channel Islands	2009-01-01	
-L00	Strategic Health Authorities	Channel Islands	2009-01-01	
-M83	British Crown Dependency	Isle of Man	2009-01-01	
-M00	Strategic Health Authorities	Isle of Man	2009-01-01	
-M01	Primary Healthcare Directorate	Isle of Man	2010-05-06	
-J01	Major Towns and Cities	England and Wales	2016-04-22	
+E92	Country	uk:ENG	2009-01-01	
+E00	Output Areas	uk:ENG	2009-01-01	
+E01	Super Output Areas, Lower Layer	uk:ENG	2009-01-01	
+E02	Super Output Areas, Middle Layer	uk:ENG	2009-01-01	
+E04	Civil Parishes	uk:ENG	2009-01-01	
+E05	Electoral Wards/Divisions	uk:ENG	2009-01-01	
+E06	Unitary Authorities	uk:ENG	2009-01-01	
+E07	Non-metropolitan Districts	uk:ENG	2009-01-01	
+E08	Metropolitan Districts	uk:ENG	2009-01-01	
+E09	London Boroughs	uk:ENG	2009-01-01	
+E10	Counties	uk:ENG	2009-01-01	
+E11	Metropolitan Counties	uk:ENG	2009-01-01	
+E12	Regions	uk:ENG	2009-01-01	
+E13	Inner and Outer London	uk:ENG	2009-01-01	
+E14	Westminster Parliamentary Constituencies	uk:ENG	2009-01-01	
+E15	European Electoral Regions	uk:ENG	2009-01-01	
+E16	Primary Care Trusts	uk:ENG	2009-01-01	
+E17	Care Trusts	uk:ENG	2009-01-01	
+E18	Strategic Health Authorities	uk:ENG	2009-01-01	
+E19	Pan Strategic Health Authorities	uk:ENG	2009-01-01	
+E20	Cancer Registries	uk:ENG	2009-01-01	
+E21	Cancer Networks	uk:ENG	2009-01-01	
+E22	Community Safety Partnerships	uk:ENG	2009-01-01	
+E23	Police Force Areas	uk:ENG	2009-01-01	
+E24	Local Learning and Skills Council areas	uk:ENG	2009-01-01	
+E25	Primary Urban Areas	uk:ENG	2009-01-01	
+E26	National Parks	uk:ENG	2009-01-01	
+E27	New Deal for Communities	uk:ENG	2009-01-01	
+E28	Registration Districts	uk:ENG	2009-01-01	
+E29	Registration Sub-district	uk:ENG	2009-01-01	
+E30	Travel to Work Areas	uk:ENG	2009-01-01	
+E31	Fire and Rescue Authorities	uk:ENG	2009-01-01	
+E32	London Assembly Constituencies	uk:ENG	2009-05-06	
+E33	Workplace Zones	uk:ENG	2013-01-31	
+E34	Built-up Areas	uk:ENG	2013-06-27	
+E35	Built-up Area sub-divisions	uk:ENG	2013-06-27	
+E36	Census Merged Wards	uk:ENG	2013-01-31	
+E37	Local Enterprise Partnerships	uk:ENG	2012-07-31	
+E38	Clinical Commissioning Groups	uk:ENG	2013-04-01	
+E39	NHS Commissioning Region Geographies	uk:ENG	2013-04-01	
+E40	NHS Commissioning Regions	uk:ENG	2013-04-01	
+E41	Census Merged Local Authority Districts	uk:ENG	2013-04-01	
+E42	Census Merged Counties	uk:ENG	2013-04-01	
+E43	Non-Civil Parished Areas	uk:ENG	2013-11-01	
+E45	Public Health England Centres	uk:ENG	2014-06-03	
+E46	Public Health England Regions	uk:ENG	2014-06-03	
+E47	Combined Authorities	uk:ENG	2015-07-10	
+E48	Local Resilience Forums	uk:ENG	2015-07-23	
+E49	Enterprise Zones	uk:ENG	2016-02-01	
+E50	Waste Authorities	uk:ENG	2016-04-22	
+E51	Development Corporations	uk:ENG	2016-04-22	
+E52	LEP - overlapping part	uk:ENG	2016-04-22	
+E53	LEP - non overlapping part	uk:ENG	2016-04-22	
+E54	Sustainability and Transformation Plan Footprints	uk:ENG	2016-04-22	
+E55	Strategic Clinical Networks	uk:ENG	2016-09-01	
+E56	Cancer Alliances	uk:ENG	2016-11-23	
+E57	National Cancer Vanguards	uk:ENG	2016-11-23	
+W92	Country	uk:WLS	2009-01-01	
+W00	Output Areas	uk:WLS	2009-01-01	
+W01	Super Output Areas, Lower Layer	uk:WLS	2009-01-01	
+W02	Super Output Areas, Middle Layer	uk:WLS	2009-01-01	
+W03	Super Output Areas, Upper Layer	uk:WLS	2009-01-01	
+W04	Communities	uk:WLS	2009-01-01	
+W05	Electoral Wards	uk:WLS	2009-01-01	
+W06	Unitary Authorities	uk:WLS	2009-01-01	
+W07	Westminster Parliamentary Constituencies	uk:WLS	2009-01-01	
+W08	European Electoral Regions	uk:WLS	2009-01-01	
+W09	National Assembly for Wales Constituencies	uk:WLS	2009-01-01	
+W10	National Assembly for Wales Electoral Regions	uk:WLS	2009-01-01	
+W11	Local Health Boards	uk:WLS	2009-01-01	
+W12	Cancer Registries	uk:WLS	2009-01-01	
+W13	Cancer Networks	uk:WLS	2009-01-01	
+W14	Community Safety Partnerships	uk:WLS	2009-01-01	
+W15	Police Force Areas	uk:WLS	2009-01-01	
+W16	Department for Children, Education, Lifelong Learning and Skills, WG	uk:WLS	2009-01-01	
+W18	National Parks	uk:WLS	2009-01-01	
+W19	National Assembly Economic Regions	uk:WLS	2009-01-01	
+W20	Registration Districts	uk:WLS	2009-01-01	
+W21	Registration Sub-district	uk:WLS	2009-01-01	
+W22	Travel to Work Areas	uk:WLS	2009-01-01	
+W23	Spatial Plan Areas	uk:WLS	2009-01-01	
+W24	Spatial Plan Sub-areas	uk:WLS	2009-01-01	
+W25	Fire and Rescue Authorities	uk:WLS	2009-01-01	
+W26	Strategic Regeneration Areas	uk:WLS	2010-05-06	
+W27	Strategic Regeneration Sub-areas	uk:WLS	2010-05-06	
+W28	Transport Consortia Areas	uk:WLS	2010-05-06	
+W29	Agricultural Regions	uk:WLS	2010-10-31	
+W30	Agricultural Small Areas	uk:WLS	2010-10-31	
+W31	Non-National Park Area	uk:WLS	2010-10-31	
+W32	Non-Strategic Regeneration Area	uk:WLS	2010-10-31	
+W33	Communities First Areas	uk:WLS	2011-01-01	
+W34	Non-Communities First Areas	uk:WLS	2011-01-01	
+W35	Workplace Zones	uk:WLS	2013-01-31	
+W36	Footprint Regions for Public Service Collaboration	uk:WLS	2011-09-01	
+W37	Built-up Areas	uk:WLS	2013-06-27	
+W38	Built-up Area sub-divisions	uk:WLS	2013-06-27	
+W39	Census Merged Wards	uk:WLS	2013-01-31	
+W40	Census Merged Local Authority Districts	uk:WLS	2013-04-01	
+W41	Local Resilience Forums	uk:WLS	2015-07-23	
+S92	Country	uk:SCT	2009-01-01	
+S00	Output Areas	uk:SCT	2009-01-01	
+S01	Data Zones	uk:SCT	2009-01-01	
+S02	Intermediate Zones	uk:SCT	2009-01-01	
+S03	Community Health Partnerships	uk:SCT	2009-01-01	
+S04	Regeneration Outcome Agreement Areas - Scotland	uk:SCT	2009-01-01	
+S05	Regeneration Outcome Areas - Community Planning Partnerships	uk:SCT	2009-01-01	
+S06	Regeneration Outcome Areas - Local Areas	uk:SCT	2009-01-01	
+S07	Regional Transport Partnerships	uk:SCT	2009-01-01	
+S08	Health Board areas	uk:SCT	2009-01-01	
+S09	Enterprise Regions	uk:SCT	2009-01-01	
+S10	Urban Regeneration Companies	uk:SCT	2009-01-01	
+S11	Strategic Development Plan Areas	uk:SCT	2009-01-01	
+S12	Council Areas	uk:SCT	2009-01-01	
+S13	Electoral Wards	uk:SCT	2009-01-01	
+S14	Westminster Parliamentary Constituencies	uk:SCT	2009-01-01	
+S15	European Electoral Regions	uk:SCT	2009-01-01	
+S16	Scottish Parliamentary Constituencies	uk:SCT	2009-01-01	
+S17	Scottish Parliamentary Regions	uk:SCT	2009-01-01	
+S19	Localities	uk:SCT	2009-01-01	
+S20	Settlements	uk:SCT	2009-01-01	
+S21	National Parks	uk:SCT	2009-01-01	
+S22	Travel to Work Areas	uk:SCT	2009-01-01	
+S23	Police Force Areas	uk:SCT	2009-01-01	
+S24	Highlands and Islands Enterprise	uk:SCT	2009-01-01	
+S25	Community Justice Authorities	uk:SCT	2009-01-01	
+S26	Community Health Partnerships sub-areas	uk:SCT	2013-11-01	
+S27	ISD Health Board of Treatment	uk:SCT	2013-11-01	
+S28	Census Detailed Characteristics	uk:SCT	2013-11-01	
+S29	Census Local Characteristics	uk:SCT	2013-11-01	
+S30	Local Administrative Units 1	uk:SCT	2013-11-01	
+S31	Local Administrative Units 2	uk:SCT	2013-11-01	
+S32	Scottish Police Divisions	uk:SCT	2013-11-01	
+S33	Broad Rental Market Areas	uk:SCT	2015-07-09	
+S34	Workplace Zones	uk:SCT	2016-10-20	
+S35	Civil Parish	uk:SCT	2016-02-01	
+S36	Island Groups	uk:SCT	2016-02-01	
+S37	Integration Authorities	uk:SCT	2016-02-01	
+S38	Scottish Fire and Rescue Service	uk:SCT	2016-02-01	
+S39	Scottish Fire and Rescue Local Senior Officer Areas	uk:SCT	2016-02-01	
+S40	Scottish Fire and Rescue Service Delivery Areas	uk:SCT	2016-02-01	
+N92	Country	uk:NIR	2010-05-06	
+N00	Small Areas	uk:NIR	2013-01-31	
+N06	Westminster Parliamentary Constituencies	uk:NIR	2010-05-06	
+N07	European Electoral Regions	uk:NIR	2010-05-06	
+N08	Electoral Wards	uk:NIR	2015-04-01	
+N09	Local Government Districts	uk:NIR	2015-04-01	
+N10	District Electoral Areas	uk:NIR	2014-05-22	
+N11	Settlement 2015	uk:NIR	2015-01-29	
+N12	Travel to Work Areas	uk:NIR	2015-07-31	
+N19	Workplace Zones	uk:NIR	2016-10-20	
+N23	Police Force Areas	uk:NIR	2016-02-01	
+N24	Police Force Districts	uk:NIR	2016-02-01	
+N31	Northern Ireland Fire and Rescue Service	uk:NIR	2016-02-01	
+N32	Northern Ireland Fire and Rescue Service Areas	uk:NIR	2016-02-01	
+N33	Northern Ireland Fire and Rescue Service Districts	uk:NIR	2016-02-01	
+K01	Travel to Work Areas	country:GB	2009-01-01	
+K02	United Kingdom	country:GB	2010-10-31	
+K03	Great Britain	uk:GBN	2010-10-31	
+K04	England and Wales	uk:ENG;uk:WLS	2010-10-31	
+K05	Built Up Areas	uk:ENG;uk:WLS	2013-06-27	
+K06	Built Up Area sub divisions	uk:ENG;uk:WLS	2013-06-27	
+L93	British Crown Dependencies	territory:JE;territory:GG	2009-01-01	
+L00	Strategic Health Authorities	territory:JE;territory:GG	2009-01-01	
+M83	British Crown Dependency	territory:IM	2009-01-01	
+M00	Strategic Health Authorities	territory:IM	2009-01-01	
+M01	Primary Healthcare Directorate	territory:IM	2010-05-06	
+J01	Major Towns and Cities	uk:ENG;uk:WLS	2016-04-22	

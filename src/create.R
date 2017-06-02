@@ -24,12 +24,34 @@ codes <- select(codes,
 # Give the fields register-like names
 colnames(codes) <- c("statistical-geography",
                      "name",
-                     "geographic-domain",
+                     "geographic-domain-link",
                      "start-date")
 
 # Create an end-date column.
 # TODO: It should be the date that a code was archived
 codes$`end-date` <- NA
+
+# Map geographic-domain to country/territory/uk registers
+mapper <- frame_data(~`geographic-domain-link`,        ~`geographic-domain`,
+                                     "England",                    "uk:ENG",
+                                       "Wales",                    "uk:WLS",
+                                    "Scotland",                    "uk:SCT",
+                            "Northern Ireland",                    "uk:NIR",
+                              "United Kingdom",                "country:GB",
+                               "Great Britain",                    "uk:GBN",
+                           "England and Wales",             "uk:ENG;uk:WLS",
+                             "Channel Islands", "territory:JE;territory:GG",
+                                 "Isle of Man",              "territory:IM")
+
+codes <- 
+  codes %>%
+  left_join(mapper, by = "geographic-domain-link") %>%
+  select(`statistical-geography`,
+         name,
+         `geographic-domain`,
+         `start-date`,
+         `end-date`)
+
 
 # Tweak the formats
 codes <- 
