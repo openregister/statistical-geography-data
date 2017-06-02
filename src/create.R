@@ -1,5 +1,5 @@
 # Create a register-shaped dataset in
-# data/statistical-geographic-code/statistical-geographic-code.tsv,
+# data/statistical-geography/statistical-geography.tsv,
 # from the raw data.
 
 library(tidyverse)
@@ -7,7 +7,7 @@ library(stringr)
 library(lubridate)
 
 list_path <- "../lists/ons/RGC_DEC_2016_UK.csv"
-tsv_path <- "../data/statistical-geographic-code/statistical-geographic-code.tsv"
+tsv_path <- "../data/statistical-geography/statistical-geography.tsv"
 
 # Import the source data
 codes <- read_csv(list_path,
@@ -18,19 +18,15 @@ codes <- read_csv(list_path,
 codes <- select(codes, 
                 `Entity code`,
                 `Entity name`,
-                `Entity abbreviation`,
                 `Entity coverage`,
                 `Related entity codes`,
-                `Entity start date`,
                 `Date entity introduced on RGC`)
 
 # Give the fields register-like names
-colnames(codes) <- c("statistical-geographic-code",
+colnames(codes) <- c("statistical-geography",
                      "name",
-                     "abbreviation",
                      "geographic-domain",
-                     "related-statistical-geographic-code",
-                     "statistical-geographic-code-creation-date",
+                     "related-statistical-geography",
                      "start-date")
 
 # Create an end-date column.
@@ -41,11 +37,9 @@ codes$`end-date` <- NA
 codes <- 
   mutate(codes,
          # Use semicolons as within-field delimiters
-         `related-statistical-geographic-code` =
-           str_replace_all(`related-statistical-geographic-code`, ", ", ";"),
+         `related-statistical-geography` =
+           str_replace_all(`related-statistical-geography`, ", ", ";"),
          # Use ISO8601 dates
-         `statistical-geographic-code-creation-date` =
-           dmy(`statistical-geographic-code-creation-date`),
          `start-date` =
            dmy(`start-date`))
 
