@@ -19,14 +19,12 @@ codes <- select(codes,
                 `Entity code`,
                 `Entity name`,
                 `Entity coverage`,
-                `Related entity codes`,
                 `Date entity introduced on RGC`)
 
 # Give the fields register-like names
 colnames(codes) <- c("statistical-geography",
                      "name",
                      "geographic-domain",
-                     "related-statistical-geography",
                      "start-date")
 
 # Create an end-date column.
@@ -36,9 +34,6 @@ codes$`end-date` <- NA
 # Tweak the formats
 codes <- 
   mutate(codes,
-         # Use semicolons as within-field delimiters
-         `related-statistical-geography` =
-           str_replace_all(`related-statistical-geography`, ", ", ";"),
          # Use ISO8601 dates
          `start-date` =
            dmy(`start-date`))
