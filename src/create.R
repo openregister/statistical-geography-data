@@ -27,6 +27,10 @@ colnames(codes) <- c("statistical-geography",
                      "area-link",
                      "start-date")
 
+# Create an 'organisation' column.
+# For now, this must be manually populated.
+codes$organisation <- NA
+
 # Create an end-date column.
 # TODO: It should be the date that a code was archived
 codes$`end-date` <- NA
@@ -49,9 +53,9 @@ codes <-
   select(`statistical-geography`,
          name,
          `area`,
+         `organisation`,
          `start-date`,
          `end-date`)
-
 
 # Tweak the formats
 codes <- 
