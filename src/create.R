@@ -33,13 +33,13 @@ codes$`end-date` <- NA
 
 # Map area to country/territory/uk registers
 mapper <- frame_data(~`area-link`,                     ~`area`,
-                        "England",                    "uk:ENG",
-                          "Wales",                    "uk:WLS",
-                       "Scotland",                    "uk:SCT",
-               "Northern Ireland",                    "uk:NIR",
+                        "England",                          "",
+                          "Wales",                          "",
+                       "Scotland",                          "",
+               "Northern Ireland",                          "",
                  "United Kingdom",                "country:GB",
-                  "Great Britain",                    "uk:GBN",
-              "England and Wales",             "uk:ENG;uk:WLS",
+                  "Great Britain",                          "",
+              "England and Wales",                          "",
                 "Channel Islands", "territory:JE;territory:GG",
                     "Isle of Man",              "territory:IM")
 
