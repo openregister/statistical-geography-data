@@ -75,4 +75,5 @@ write.table(codes,
             row.names = FALSE,
             quote = 3,
             col.names = FALSE,
-            append = TRUE)
+            append = TRUE,
+            na = "")
