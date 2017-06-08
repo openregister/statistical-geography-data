@@ -64,5 +64,15 @@ codes <-
          `start-date` =
            dmy(`start-date`))
 
-# Write the register tsv file
-write_tsv(codes, tsv_path, na = "")
+# Write the register tsv file, using write.table instead of write_tsv in order
+# to quote the 'area' column.  Unfortunately doing so means that the headers are
+# all quoted, so the headers are written separately.
+cat(paste0(paste(colnames(codes), collapse = "\t"), "\n"),
+    file = tsv_path)
+write.table(codes,
+            tsv_path,
+            sep = "\t",
+            row.names = FALSE,
+            quote = 3,
+            col.names = FALSE,
+            append = TRUE)
