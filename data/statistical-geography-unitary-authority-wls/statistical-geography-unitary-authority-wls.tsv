@@ -1,27 +1,27 @@
-statistical-geography-unitary-authority-wls	entity	start-date	end-date
-W06000001	principal-local-authority:AGY	01/01/2009	
-W06000002	principal-local-authority:GWN	01/01/2009	
-W06000003	principal-local-authority:CWY	01/01/2009	
-W06000004	principal-local-authority:DEN	01/01/2009	
-W06000005	principal-local-authority:FLN	01/01/2009	
-W06000006	principal-local-authority:WRX	01/01/2009	
-W06000007	principal-local-authority:POW	01/01/2009	31/05/2009
-W06000008	principal-local-authority:CGN	01/01/2009	
-W06000009	principal-local-authority:PEM	01/01/2009	
-W06000010	principal-local-authority:CMN	01/01/2009	
-W06000011	principal-local-authority:SWA	01/01/2009	
-W06000012	principal-local-authority:NTL	01/01/2009	
-W06000013	principal-local-authority:BGE	01/01/2009	
-W06000014	principal-local-authority:VGL	01/01/2013	
-W06000014	principal-local-authority:VGL	01/01/2009	31/12/2012
-W06000015	principal-local-authority:CRF	01/01/2009	
-W06000016	principal-local-authority:RCT	01/01/2010	
-W06000016	principal-local-authority:RCT	01/01/2009	31/12/2009
-W06000017	principal-local-authority:MTY	01/01/2009	31/05/2009
-W06000018	principal-local-authority:CAY	01/01/2009	
-W06000019	principal-local-authority:BGW	01/01/2009	
-W06000020	principal-local-authority:TOF	01/01/2009	
-W06000021	principal-local-authority:MON	01/01/2009	
-W06000022	principal-local-authority:NWP	01/01/2009	
-W06000023	principal-local-authority:POW	01/06/2009	
-W06000024	principal-local-authority:MTY	01/06/2009	
+statistical-geography-unitary-authority-wls	principal-local-authority	start-date	end-date
+W06000001	Isle of Anglesey	2009-01-01T00:00:00Z	
+W06000002	Gwynedd	2009-01-01T00:00:00Z	
+W06000003	Conwy	2009-01-01T00:00:00Z	
+W06000004	Denbighshire	2009-01-01T00:00:00Z	
+W06000005	Flintshire	2009-01-01T00:00:00Z	
+W06000006	Wrexham	2009-01-01T00:00:00Z	
+W06000007	Powys	2009-01-01T00:00:00Z	2009-05-31T00:00:00Z
+W06000008	Ceredigion	2009-01-01T00:00:00Z	
+W06000009	Pembrokeshire	2009-01-01T00:00:00Z	
+W06000010	Carmarthenshire	2009-01-01T00:00:00Z	
+W06000011	Swansea	2009-01-01T00:00:00Z	
+W06000012	Neath Port Talbot	2009-01-01T00:00:00Z	
+W06000013	Bridgend	2009-01-01T00:00:00Z	
+W06000014	Vale of Glamorgan	2013-01-01T00:00:00Z	
+W06000014	The Vale of Glamorgan	2009-01-01T00:00:00Z	2012-12-31T00:00:00Z
+W06000015	Cardiff	2009-01-01T00:00:00Z	
+W06000016	Rhondda Cynon Taf	2010-01-01T00:00:00Z	
+W06000016	Rhondda, Cynon, Taff	2009-01-01T00:00:00Z	2009-12-31T00:00:00Z
+W06000017	Merthyr Tydfil	2009-01-01T00:00:00Z	2009-05-31T00:00:00Z
+W06000018	Caerphilly	2009-01-01T00:00:00Z	
+W06000019	Blaenau Gwent	2009-01-01T00:00:00Z	
+W06000020	Torfaen	2009-01-01T00:00:00Z	
+W06000021	Monmouthshire	2009-01-01T00:00:00Z	
+W06000022	Newport	2009-01-01T00:00:00Z	
+W06000023	Powys	2009-06-01T00:00:00Z	
+W06000024	Merthyr Tydfil	2009-06-01T00:00:00Z	
