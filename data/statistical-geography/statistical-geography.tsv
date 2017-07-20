@@ -183,14 +183,14 @@ E38	Clinical Commissioning Groups		government-organisation:PB1202	2013-04-01
 E38	Clinical Commissioning Groups		government-organisation:PB1202	2013-04-01	
 E38	Clinical Commissioning Groups		government-organisation:PB1202	2013-04-01	
 E38	Clinical Commissioning Groups		government-organisation:PB1202	2013-04-01	
-E39	NHS Commissioning Region Geographies		government-organisation:PB1202	2013-04-01	
-E39	NHS Commissioning Region Geographies		government-organisation:PB1202	2013-04-01	
-E39	NHS Commissioning Region Geographies		government-organisation:PB1202	2013-04-01	
-E39	NHS Commissioning Region Geographies		government-organisation:PB1202	2013-04-01	
-E40	NHS Commissioning Regions		government-organisation:PB1202	2013-04-01	
-E40	NHS Commissioning Regions		government-organisation:PB1202	2013-04-01	
-E40	NHS Commissioning Regions		government-organisation:PB1202	2013-04-01	
-E40	NHS Commissioning Regions		government-organisation:PB1202	2013-04-01	
+E39	NHS England (Region, Local Office)		government-organisation:PB1202	2013-04-01	
+E39	NHS England (Region, Local Office)		government-organisation:PB1202	2013-04-01	
+E39	NHS England (Region, Local Office)		government-organisation:PB1202	2013-04-01	
+E39	NHS England (Region, Local Office)		government-organisation:PB1202	2013-04-01	
+E40	NHS England Regions		government-organisation:PB1202	2013-04-01	
+E40	NHS England Regions		government-organisation:PB1202	2013-04-01	
+E40	NHS England Regions		government-organisation:PB1202	2013-04-01	
+E40	NHS England Regions		government-organisation:PB1202	2013-04-01	
 E41	Census Merged Local Authority Districts		government-organisation:D303	2013-04-01	
 E41	Census Merged Local Authority Districts		government-organisation:D303	2013-04-01	
 E41	Census Merged Local Authority Districts		government-organisation:D303	2013-04-01	
@@ -231,8 +231,8 @@ E51	Development Corporations		government-organisation:D4	2016-04-22
 E51	Development Corporations		government-organisation:D4	2016-04-22	
 E52	LEP - overlapping part		government-organisation:D3	2016-04-22	
 E53	LEP - non overlapping part		government-organisation:D3	2016-04-22	
-E54	Sustainability and Transformation Plan Footprints		government-organisation:PB481	2016-04-22	
-E54	Sustainability and Transformation Plan Footprints			2016-04-22	
+E54	Sustainability and Transformation Partnerships		government-organisation:PB481	2016-04-22	
+E54	Sustainability and Transformation Partnerships			2016-04-22	
 E55	Strategic Clinical Networks		government-organisation:PB1202	2016-09-01	
 E55	Strategic Clinical Networks		government-organisation:PB1202	2016-09-01	
 E55	Strategic Clinical Networks		government-organisation:PB1202	2016-09-01	

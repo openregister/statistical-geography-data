@@ -6,12 +6,14 @@ library(tidyverse)
 library(stringr)
 library(lubridate)
 
-list_path <- "../lists/ons/RGC_DEC_2016_UK.csv"
+list_path <- "../lists/ons/RGC.csv"
 tsv_path <- "../data/statistical-geography/statistical-geography.tsv"
 
 # Import the source data
+# This gives a warning 'Unnamed `col_types` should have the same length as `col_names`. Using smaller of the two'.
+# You can safely ignore it -- it's because of a trailing comma in one or more of the rows, which implies a column that doesn't exist.
 codes <- read_csv(list_path,
-                  col_types = "?????????????????_", # ignore trailing comma
+                  #col_types = "?????????????????_", # ignore trailing comma
                   na = c("", "n/a"))
 
 # Choose the fields for the register
