@@ -5,9 +5,10 @@
 library(tidyverse)
 library(stringr)
 library(lubridate)
+library(here)
 
-list_path <- "../lists/ons/RGC.csv"
-tsv_path <- "../data/statistical-geography/statistical-geography.tsv"
+list_path <- file.path(here(), "lists", "ons", "RGC.csv")
+tsv_path <- file.path(here(), "data", "statistical-geography", "statistical-geography.tsv")
 
 # Import the source data
 # This gives a warning 'Unnamed `col_types` should have the same length as `col_names`. Using smaller of the two'.
