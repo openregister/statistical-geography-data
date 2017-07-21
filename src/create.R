@@ -117,7 +117,7 @@ org_map <- tribble(~org_link, ~area_link, ~organisation,
 codes <-
   codes %>%
   left_join(area_map, by = "area_link") %>%
-  left_join(org_map, by = "org_link") %>%
+  left_join(org_map, by = c("area_link", "org_link")) %>%
   select(`statistical-geography`,
          name,
          area,
