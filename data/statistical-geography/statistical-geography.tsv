@@ -63,8 +63,8 @@ W02	Super Output Areas, Middle Layer		government-organisation:D303		2009-01-01
 W03	Super Output Areas, Upper Layer				2009-01-01	
 W04	Communities				2009-01-01	
 W05	Electoral Wards				2009-01-01	
-W06	Unitary Authorities				2009-01-01	
-W07	Westminster Parliamentary Constituencies		government-organisation:OT432	statistical-geography-unitary-authority-wls	2009-01-01	
+W06	Unitary Authorities			statistical-geography-unitary-authority-wls	2009-01-01	
+W07	Westminster Parliamentary Constituencies		government-organisation:OT432		2009-01-01	
 W08	European Electoral Regions		government-organisation:OT432		2009-01-01	
 W09	National Assembly for Wales Constituencies		government-organisation:OT432		2009-01-01	
 W10	National Assembly for Wales Electoral Regions		government-organisation:OT432		2009-01-01	
