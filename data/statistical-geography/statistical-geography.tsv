@@ -1,168 +1,168 @@
-statistical-geography	name	area	organisation	start-date	end-date
-E92	Country		government-organisation:D303	2009-01-01	
-E00	Output Areas		government-organisation:D303	2009-01-01	
-E01	Super Output Areas, Lower Layer		government-organisation:D303	2009-01-01	
-E02	Super Output Areas, Middle Layer		government-organisation:D303	2009-01-01	
-E04	Civil Parishes		government-organisation:D4	2009-01-01	
-E05	Electoral Wards/Divisions		government-organisation:D4	2009-01-01	
-E06	Unitary Authorities		government-organisation:D4	2009-01-01	
-E07	Non-metropolitan Districts		government-organisation:D4	2009-01-01	
-E08	Metropolitan Districts		government-organisation:D4	2009-01-01	
-E09	London Boroughs		government-organisation:D4	2009-01-01	
-E10	Counties		government-organisation:D4	2009-01-01	
-E11	Metropolitan Counties		government-organisation:D4	2009-01-01	
-E12	Regions		government-organisation:D303	2009-01-01	
-E13	Inner and Outer London		government-organisation:D4	2009-01-01	
-E14	Westminster Parliamentary Constituencies			2009-01-01	
-E15	European Electoral Regions		government-organisation:D303	2009-01-01	
-E16	Primary Care Trusts		government-organisation:PB1202	2009-01-01	
-E17	Care Trusts		government-organisation:PB1202	2009-01-01	
-E18	Strategic Health Authorities		government-organisation:PB1202	2009-01-01	
-E19	Pan Strategic Health Authorities		government-organisation:PB1202	2009-01-01	
-E20	Cancer Registries		government-organisation:EA480	2009-01-01	
-E21	Cancer Networks		government-organisation:PB1202	2009-01-01	
-E22	Community Safety Partnerships		government-organisation:D16	2009-01-01	
-E23	Police Force Areas		government-organisation:D16	2009-01-01	
-E24	Local Learning and Skills Council areas		government-organisation:D303	2009-01-01	
-E25	Primary Urban Areas		government-organisation:D4	2009-01-01	
-E26	National Parks		government-organisation:PB202	2009-01-01	
-E27	New Deal for Communities		government-organisation:D4	2009-01-01	
-E28	Registration Districts		government-organisation:D303	2009-01-01	
-E29	Registration Sub-district		government-organisation:D303	2009-01-01	
-E30	Travel to Work Areas		government-organisation:D303	2009-01-01	
-E31	Fire and Rescue Authorities		government-organisation:D4	2009-01-01	
-E32	London Assembly Constituencies		local-authority-eng:GLA	2009-05-06	
-E33	Workplace Zones		government-organisation:D303	2013-01-31	
-E34	Built-up Areas		government-organisation:D303	2013-06-27	
-E35	Built-up Area sub-divisions		government-organisation:D303	2013-06-27	
-E36	Census Merged Wards		government-organisation:D303	2013-01-31	
-E37	Local Enterprise Partnerships		government-organisation:D3	2012-07-31	
-E38	Clinical Commissioning Groups		government-organisation:PB1202	2013-04-01	
-E39	NHS England (Region, Local Office)		government-organisation:PB1202	2013-04-01	
-E40	NHS England Regions		government-organisation:PB1202	2013-04-01	
-E41	Census Merged Local Authority Districts		government-organisation:D303	2013-04-01	
-E42	Census Merged Counties		government-organisation:D303	2013-04-01	
-E43	Non-Civil Parished Areas		government-organisation:D303	2013-11-01	
-E45	Public Health England Centres		government-organisation:EA480	2014-06-03	
-E46	Public Health England Regions		government-organisation:EA480	2014-06-03	
-E47	Combined Authorities		government-organisation:D4	2015-07-10	
-E48	Local Resilience Forums		government-organisation:D4	2015-07-23	
-E49	Enterprise Zones		government-organisation:D4	2016-02-01	
-E50	Waste Authorities		government-organisation:D7	2016-04-22	
-E51	Development Corporations		government-organisation:D4	2016-04-22	
-E52	LEP - overlapping part		government-organisation:D3	2016-04-22	
-E53	LEP - non overlapping part		government-organisation:D3	2016-04-22	
-E54	Sustainability and Transformation Partnerships		government-organisation:PB481	2016-04-22	
-E55	Strategic Clinical Networks		government-organisation:PB1202	2016-09-01	
-E56	Cancer Alliances		government-organisation:PB481	2016-11-23	
-E57	National Cancer Vanguards		government-organisation:PB481	2016-11-23	
-W92	Country		government-organisation:D303	2009-01-01	
-W00	Output Areas		government-organisation:D303	2009-01-01	
-W01	Super Output Areas, Lower Layer		government-organisation:D303	2009-01-01	
-W02	Super Output Areas, Middle Layer		government-organisation:D303	2009-01-01	
-W03	Super Output Areas, Upper Layer			2009-01-01	
-W04	Communities			2009-01-01	
-W05	Electoral Wards			2009-01-01	
-W06	Unitary Authorities			2009-01-01	
-W07	Westminster Parliamentary Constituencies		government-organisation:OT432	2009-01-01	
-W08	European Electoral Regions		government-organisation:OT432	2009-01-01	
-W09	National Assembly for Wales Constituencies		government-organisation:OT432	2009-01-01	
-W10	National Assembly for Wales Electoral Regions		government-organisation:OT432	2009-01-01	
-W11	Local Health Boards			2009-01-01	
-W12	Cancer Registries		government-organisation:PB1202	2009-01-01	
-W13	Cancer Networks		government-organisation:PB1202	2009-01-01	
-W14	Community Safety Partnerships		government-organisation:D16	2009-01-01	
-W15	Police Force Areas		government-organisation:D16	2009-01-01	
-W16	Department for Children, Education, Lifelong Learning and Skills, WG			2009-01-01	
-W18	National Parks			2009-01-01	
-W19	National Assembly Economic Regions			2009-01-01	
-W20	Registration Districts		government-organisation:D303	2009-01-01	
-W21	Registration Sub-district		government-organisation:D303	2009-01-01	
-W22	Travel to Work Areas		government-organisation:D303	2009-01-01	
-W23	Spatial Plan Areas			2009-01-01	
-W24	Spatial Plan Sub-areas			2009-01-01	
-W25	Fire and Rescue Authorities		government-organisation:D4	2009-01-01	
-W26	Strategic Regeneration Areas			2010-05-06	
-W27	Strategic Regeneration Sub-areas			2010-05-06	
-W28	Transport Consortia Areas			2010-05-06	
-W29	Agricultural Regions			2010-10-31	
-W30	Agricultural Small Areas			2010-10-31	
-W31	Non-National Park Area			2010-10-31	
-W32	Non-Strategic Regeneration Area			2010-10-31	
-W33	Communities First Areas			2011-01-01	
-W34	Non-Communities First Areas			2011-01-01	
-W35	Workplace Zones		government-organisation:D303	2013-01-31	
-W36	Footprint Regions for Public Service Collaboration		government-organisation:DA1019	2011-09-01	
-W37	Built-up Areas		government-organisation:D303	2013-06-27	
-W38	Built-up Area sub-divisions		government-organisation:D303	2013-06-27	
-W39	Census Merged Wards		government-organisation:D303	2013-01-31	
-W40	Census Merged Local Authority Districts		government-organisation:D303	2013-04-01	
-W41	Local Resilience Forums		government-organisation:D4	2015-07-23	
-S92	Country		government-organisation:D303	2009-01-01	
-S00	Output Areas		government-organisation:OT1075	2009-01-01	
-S01	Data Zones		government-organisation:DA1020	2009-01-01	
-S02	Intermediate Zones		government-organisation:DA1020	2009-01-01	
-S03	Community Health Partnerships		government-organisation:DA1020	2009-01-01	
-S04	Regeneration Outcome Agreement Areas - Scotland		government-organisation:DA1020	2009-01-01	
-S05	Regeneration Outcome Areas - Community Planning Partnerships		government-organisation:DA1020	2009-01-01	
-S06	Regeneration Outcome Areas - Local Areas		government-organisation:DA1020	2009-01-01	
-S07	Regional Transport Partnerships		government-organisation:DA1020	2009-01-01	
-S08	Health Board areas		government-organisation:DA1020	2009-01-01	
-S09	Enterprise Regions			2009-01-01	
-S10	Urban Regeneration Companies		government-organisation:DA1020	2009-01-01	
-S11	Strategic Development Plan Areas		government-organisation:DA1020	2009-01-01	
-S12	Council Areas			2009-01-01	
-S13	Electoral Wards			2009-01-01	
-S14	Westminster Parliamentary Constituencies			2009-01-01	
-S15	European Electoral Regions			2009-01-01	
-S16	Scottish Parliamentary Constituencies			2009-01-01	
-S17	Scottish Parliamentary Regions			2009-01-01	
-S19	Localities		government-organisation:OT1075	2009-01-01	
-S20	Settlements		government-organisation:OT1075	2009-01-01	
-S21	National Parks		government-organisation:DA1020	2009-01-01	
-S22	Travel to Work Areas		government-organisation:D303	2009-01-01	
-S23	Police Force Areas		government-organisation:DA1020	2009-01-01	
-S24	Highlands and Islands Enterprise			2009-01-01	
-S25	Community Justice Authorities		government-organisation:DA1020	2009-01-01	
-S26	Community Health Partnerships sub-areas		government-organisation:DA1020	2013-11-01	
-S27	ISD Health Board of Treatment			2013-11-01	
-S28	Census Detailed Characteristics		government-organisation:OT1075	2013-11-01	
-S29	Census Local Characteristics		government-organisation:OT1075	2013-11-01	
-S30	Local Administrative Units 1		government-organisation:DA1020	2013-11-01	
-S31	Local Administrative Units 2		government-organisation:DA1020	2013-11-01	
-S32	Scottish Police Divisions		government-organisation:DA1020	2013-11-01	
-S33	Broad Rental Market Areas		government-organisation:DA1020	2015-07-09	
-S34	Workplace Zones		government-organisation:OT1075	2016-10-20	
-S35	Civil Parish		government-organisation:OT1075	2016-02-01	
-S36	Island Groups		government-organisation:OT1075	2016-02-01	
-S37	Integration Authorities			2016-02-01	
-S38	Scottish Fire and Rescue Service		government-organisation:DA1020	2016-02-01	
-S39	Scottish Fire and Rescue Local Senior Officer Areas		government-organisation:DA1020	2016-02-01	
-S40	Scottish Fire and Rescue Service Delivery Areas		government-organisation:DA1020	2016-02-01	
-N92	Country		government-organisation:D303	2010-05-06	
-N00	Small Areas		government-organisation:EA701	2013-01-31	
-N06	Westminster Parliamentary Constituencies		government-organisation:OT428	2010-05-06	
-N07	European Electoral Regions		government-organisation:OT428	2010-05-06	
-N08	Electoral Wards		government-organisation:EA701	2015-04-01	
-N09	Local Government Districts		government-organisation:EA701	2015-04-01	
-N10	District Electoral Areas		government-organisation:OT428	2014-05-22	
-N11	Settlement 2015		government-organisation:EA701	2015-01-29	
-N12	Travel to Work Areas		government-organisation:D303	2015-07-31	
-N19	Workplace Zones		government-organisation:EA701	2016-10-20	
-N23	Police Force Areas		government-organisation:OT657	2016-02-01	
-N24	Police Force Districts		government-organisation:OT657	2016-02-01	
-N31	Northern Ireland Fire and Rescue Service			2016-02-01	
-N32	Northern Ireland Fire and Rescue Service Areas			2016-02-01	
-N33	Northern Ireland Fire and Rescue Service Districts			2016-02-01	
-K01	Travel to Work Areas	"country:GB"	government-organisation:D303	2009-01-01	
-K02	United Kingdom	"country:GB"	government-organisation:D303	2010-10-31	
-K03	Great Britain		government-organisation:D303	2010-10-31	
-K04	England and Wales		government-organisation:D303	2010-10-31	
-K05	Built Up Areas		government-organisation:D303	2013-06-27	
-K06	Built Up Area sub divisions		government-organisation:D303	2013-06-27	
-L93	British Crown Dependencies	"territory:JE;territory:GG"	government-organisation:D303	2009-01-01	
-L00	Strategic Health Authorities	"territory:JE;territory:GG"	government-organisation:PB1202	2009-01-01	
-M83	British Crown Dependency	"territory:IM"	government-organisation:D303	2009-01-01	
-M00	Strategic Health Authorities	"territory:IM"	government-organisation:PB1202	2009-01-01	
-M01	Primary Healthcare Directorate	"territory:IM"	government-organisation:PB1202	2010-05-06	
-J01	Major Towns and Cities		government-organisation:D303	2016-04-22	
+statistical-geography	name	area	organisation	register	start-date	end-date
+E92	Country		government-organisation:D303		2009-01-01	
+E00	Output Areas		government-organisation:D303		2009-01-01	
+E01	Super Output Areas, Lower Layer		government-organisation:D303		2009-01-01	
+E02	Super Output Areas, Middle Layer		government-organisation:D303		2009-01-01	
+E04	Civil Parishes		government-organisation:D4		2009-01-01	
+E05	Electoral Wards/Divisions		government-organisation:D4		2009-01-01	
+E06	Unitary Authorities		government-organisation:D4		2009-01-01	
+E07	Non-metropolitan Districts		government-organisation:D4		2009-01-01	
+E08	Metropolitan Districts		government-organisation:D4		2009-01-01	
+E09	London Boroughs		government-organisation:D4		2009-01-01	
+E10	Counties		government-organisation:D4		2009-01-01	
+E11	Metropolitan Counties		government-organisation:D4		2009-01-01	
+E12	Regions		government-organisation:D303		2009-01-01	
+E13	Inner and Outer London		government-organisation:D4		2009-01-01	
+E14	Westminster Parliamentary Constituencies				2009-01-01	
+E15	European Electoral Regions		government-organisation:D303		2009-01-01	
+E16	Primary Care Trusts		government-organisation:PB1202		2009-01-01	
+E17	Care Trusts		government-organisation:PB1202		2009-01-01	
+E18	Strategic Health Authorities		government-organisation:PB1202		2009-01-01	
+E19	Pan Strategic Health Authorities		government-organisation:PB1202		2009-01-01	
+E20	Cancer Registries		government-organisation:EA480		2009-01-01	
+E21	Cancer Networks		government-organisation:PB1202		2009-01-01	
+E22	Community Safety Partnerships		government-organisation:D16		2009-01-01	
+E23	Police Force Areas		government-organisation:D16		2009-01-01	
+E24	Local Learning and Skills Council areas		government-organisation:D303		2009-01-01	
+E25	Primary Urban Areas		government-organisation:D4		2009-01-01	
+E26	National Parks		government-organisation:PB202		2009-01-01	
+E27	New Deal for Communities		government-organisation:D4		2009-01-01	
+E28	Registration Districts		government-organisation:D303		2009-01-01	
+E29	Registration Sub-district		government-organisation:D303		2009-01-01	
+E30	Travel to Work Areas		government-organisation:D303		2009-01-01	
+E31	Fire and Rescue Authorities		government-organisation:D4		2009-01-01	
+E32	London Assembly Constituencies		local-authority-eng:GLA		2009-05-06	
+E33	Workplace Zones		government-organisation:D303		2013-01-31	
+E34	Built-up Areas		government-organisation:D303		2013-06-27	
+E35	Built-up Area sub-divisions		government-organisation:D303		2013-06-27	
+E36	Census Merged Wards		government-organisation:D303		2013-01-31	
+E37	Local Enterprise Partnerships		government-organisation:D3		2012-07-31	
+E38	Clinical Commissioning Groups		government-organisation:PB1202		2013-04-01	
+E39	NHS England (Region, Local Office)		government-organisation:PB1202		2013-04-01	
+E40	NHS England Regions		government-organisation:PB1202		2013-04-01	
+E41	Census Merged Local Authority Districts		government-organisation:D303		2013-04-01	
+E42	Census Merged Counties		government-organisation:D303		2013-04-01	
+E43	Non-Civil Parished Areas		government-organisation:D303		2013-11-01	
+E45	Public Health England Centres		government-organisation:EA480		2014-06-03	
+E46	Public Health England Regions		government-organisation:EA480		2014-06-03	
+E47	Combined Authorities		government-organisation:D4		2015-07-10	
+E48	Local Resilience Forums		government-organisation:D4		2015-07-23	
+E49	Enterprise Zones		government-organisation:D4		2016-02-01	
+E50	Waste Authorities		government-organisation:D7		2016-04-22	
+E51	Development Corporations		government-organisation:D4		2016-04-22	
+E52	LEP - overlapping part		government-organisation:D3		2016-04-22	
+E53	LEP - non overlapping part		government-organisation:D3		2016-04-22	
+E54	Sustainability and Transformation Partnerships		government-organisation:PB481		2016-04-22	
+E55	Strategic Clinical Networks		government-organisation:PB1202		2016-09-01	
+E56	Cancer Alliances		government-organisation:PB481		2016-11-23	
+E57	National Cancer Vanguards		government-organisation:PB481		2016-11-23	
+W92	Country		government-organisation:D303		2009-01-01	
+W00	Output Areas		government-organisation:D303		2009-01-01	
+W01	Super Output Areas, Lower Layer		government-organisation:D303		2009-01-01	
+W02	Super Output Areas, Middle Layer		government-organisation:D303		2009-01-01	
+W03	Super Output Areas, Upper Layer				2009-01-01	
+W04	Communities				2009-01-01	
+W05	Electoral Wards				2009-01-01	
+W06	Unitary Authorities				2009-01-01	
+W07	Westminster Parliamentary Constituencies		government-organisation:OT432	statistical-geography-unitary-authority-wls	2009-01-01	
+W08	European Electoral Regions		government-organisation:OT432		2009-01-01	
+W09	National Assembly for Wales Constituencies		government-organisation:OT432		2009-01-01	
+W10	National Assembly for Wales Electoral Regions		government-organisation:OT432		2009-01-01	
+W11	Local Health Boards				2009-01-01	
+W12	Cancer Registries		government-organisation:PB1202		2009-01-01	
+W13	Cancer Networks		government-organisation:PB1202		2009-01-01	
+W14	Community Safety Partnerships		government-organisation:D16		2009-01-01	
+W15	Police Force Areas		government-organisation:D16		2009-01-01	
+W16	Department for Children, Education, Lifelong Learning and Skills, WG				2009-01-01	
+W18	National Parks				2009-01-01	
+W19	National Assembly Economic Regions				2009-01-01	
+W20	Registration Districts		government-organisation:D303		2009-01-01	
+W21	Registration Sub-district		government-organisation:D303		2009-01-01	
+W22	Travel to Work Areas		government-organisation:D303		2009-01-01	
+W23	Spatial Plan Areas				2009-01-01	
+W24	Spatial Plan Sub-areas				2009-01-01	
+W25	Fire and Rescue Authorities		government-organisation:D4		2009-01-01	
+W26	Strategic Regeneration Areas				2010-05-06	
+W27	Strategic Regeneration Sub-areas				2010-05-06	
+W28	Transport Consortia Areas				2010-05-06	
+W29	Agricultural Regions				2010-10-31	
+W30	Agricultural Small Areas				2010-10-31	
+W31	Non-National Park Area				2010-10-31	
+W32	Non-Strategic Regeneration Area				2010-10-31	
+W33	Communities First Areas				2011-01-01	
+W34	Non-Communities First Areas				2011-01-01	
+W35	Workplace Zones		government-organisation:D303		2013-01-31	
+W36	Footprint Regions for Public Service Collaboration		government-organisation:DA1019		2011-09-01	
+W37	Built-up Areas		government-organisation:D303		2013-06-27	
+W38	Built-up Area sub-divisions		government-organisation:D303		2013-06-27	
+W39	Census Merged Wards		government-organisation:D303		2013-01-31	
+W40	Census Merged Local Authority Districts		government-organisation:D303		2013-04-01	
+W41	Local Resilience Forums		government-organisation:D4		2015-07-23	
+S92	Country		government-organisation:D303		2009-01-01	
+S00	Output Areas		government-organisation:OT1075		2009-01-01	
+S01	Data Zones		government-organisation:DA1020		2009-01-01	
+S02	Intermediate Zones		government-organisation:DA1020		2009-01-01	
+S03	Community Health Partnerships		government-organisation:DA1020		2009-01-01	
+S04	Regeneration Outcome Agreement Areas - Scotland		government-organisation:DA1020		2009-01-01	
+S05	Regeneration Outcome Areas - Community Planning Partnerships		government-organisation:DA1020		2009-01-01	
+S06	Regeneration Outcome Areas - Local Areas		government-organisation:DA1020		2009-01-01	
+S07	Regional Transport Partnerships		government-organisation:DA1020		2009-01-01	
+S08	Health Board areas		government-organisation:DA1020		2009-01-01	
+S09	Enterprise Regions				2009-01-01	
+S10	Urban Regeneration Companies		government-organisation:DA1020		2009-01-01	
+S11	Strategic Development Plan Areas		government-organisation:DA1020		2009-01-01	
+S12	Council Areas				2009-01-01	
+S13	Electoral Wards				2009-01-01	
+S14	Westminster Parliamentary Constituencies				2009-01-01	
+S15	European Electoral Regions				2009-01-01	
+S16	Scottish Parliamentary Constituencies				2009-01-01	
+S17	Scottish Parliamentary Regions				2009-01-01	
+S19	Localities		government-organisation:OT1075		2009-01-01	
+S20	Settlements		government-organisation:OT1075		2009-01-01	
+S21	National Parks		government-organisation:DA1020		2009-01-01	
+S22	Travel to Work Areas		government-organisation:D303		2009-01-01	
+S23	Police Force Areas		government-organisation:DA1020		2009-01-01	
+S24	Highlands and Islands Enterprise				2009-01-01	
+S25	Community Justice Authorities		government-organisation:DA1020		2009-01-01	
+S26	Community Health Partnerships sub-areas		government-organisation:DA1020		2013-11-01	
+S27	ISD Health Board of Treatment				2013-11-01	
+S28	Census Detailed Characteristics		government-organisation:OT1075		2013-11-01	
+S29	Census Local Characteristics		government-organisation:OT1075		2013-11-01	
+S30	Local Administrative Units 1		government-organisation:DA1020		2013-11-01	
+S31	Local Administrative Units 2		government-organisation:DA1020		2013-11-01	
+S32	Scottish Police Divisions		government-organisation:DA1020		2013-11-01	
+S33	Broad Rental Market Areas		government-organisation:DA1020		2015-07-09	
+S34	Workplace Zones		government-organisation:OT1075		2016-10-20	
+S35	Civil Parish		government-organisation:OT1075		2016-02-01	
+S36	Island Groups		government-organisation:OT1075		2016-02-01	
+S37	Integration Authorities				2016-02-01	
+S38	Scottish Fire and Rescue Service		government-organisation:DA1020		2016-02-01	
+S39	Scottish Fire and Rescue Local Senior Officer Areas		government-organisation:DA1020		2016-02-01	
+S40	Scottish Fire and Rescue Service Delivery Areas		government-organisation:DA1020		2016-02-01	
+N92	Country		government-organisation:D303		2010-05-06	
+N00	Small Areas		government-organisation:EA701		2013-01-31	
+N06	Westminster Parliamentary Constituencies		government-organisation:OT428		2010-05-06	
+N07	European Electoral Regions		government-organisation:OT428		2010-05-06	
+N08	Electoral Wards		government-organisation:EA701		2015-04-01	
+N09	Local Government Districts		government-organisation:EA701		2015-04-01	
+N10	District Electoral Areas		government-organisation:OT428		2014-05-22	
+N11	Settlement 2015		government-organisation:EA701		2015-01-29	
+N12	Travel to Work Areas		government-organisation:D303		2015-07-31	
+N19	Workplace Zones		government-organisation:EA701		2016-10-20	
+N23	Police Force Areas		government-organisation:OT657		2016-02-01	
+N24	Police Force Districts		government-organisation:OT657		2016-02-01	
+N31	Northern Ireland Fire and Rescue Service				2016-02-01	
+N32	Northern Ireland Fire and Rescue Service Areas				2016-02-01	
+N33	Northern Ireland Fire and Rescue Service Districts				2016-02-01	
+K01	Travel to Work Areas	country:GB	government-organisation:D303		2009-01-01	
+K02	United Kingdom	country:GB	government-organisation:D303		2010-10-31	
+K03	Great Britain		government-organisation:D303		2010-10-31	
+K04	England and Wales		government-organisation:D303		2010-10-31	
+K05	Built Up Areas		government-organisation:D303		2013-06-27	
+K06	Built Up Area sub divisions		government-organisation:D303		2013-06-27	
+L93	British Crown Dependencies	territory:JE;territory:GG	government-organisation:D303		2009-01-01	
+L00	Strategic Health Authorities	territory:JE;territory:GG	government-organisation:PB1202		2009-01-01	
+M83	British Crown Dependency	territory:IM	government-organisation:D303		2009-01-01	
+M00	Strategic Health Authorities	territory:IM	government-organisation:PB1202		2009-01-01	
+M01	Primary Healthcare Directorate	territory:IM	government-organisation:PB1202		2010-05-06	
+J01	Major Towns and Cities		government-organisation:D303		2016-04-22	
