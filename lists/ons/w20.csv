@@ -1,0 +1,42 @@
+GEOGCD,GEOGNM,GEOGNMW,SI_ID,SI_TITLE,OPER_DATE,TERM_DATE,PARENTCD,ENTITYCD,OWNER,STATUS,AREAEHECT,AREACHECT,AREAIHECT,AREALHECT
+W20000001,Flintshire,Sir y Fflint,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,48943.95,43749,0,43749
+W20000002,Denbighshire South,De Sir Ddinbych,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,71636.4,71636.4,179.64,71456.75
+W20000003,Denbighshire North,Gogledd Sir Ddinbych,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,13000.59,12217,0,12217
+W20000004,Wrexham,Wrecsam,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,50377.35,50377.35,0,50377.35
+W20000005,Cardiganshire Central,Sir Aberteifi Ganol,1111/1001,GSS re-coding strategy,01/01/2009,06/03/2013,,W20,ONS,terminated,,,,
+W20000006,Cardiganshire North,Gogledd Sir Aberteifi,1111/1001,GSS re-coding strategy,01/01/2009,06/03/2013,,W20,ONS,terminated,,,,
+W20000007,Cardiganshire South,De Sir Aberteifi,1111/1001,GSS re-coding strategy,01/01/2009,06/03/2013,,W20,ONS,terminated,,,,
+W20000008,Pembrokeshire,Sir Benfro,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,165018.3,161868.9,0,161868.9
+W20000009,Carmarthenshire,Sir Gaerfyrddin,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,243894.7,237115.15,82.81,237032.34
+W20000010,Blaenau Gwent,Blaenau Gwent,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,10872.8,10872.8,0,10872.8
+W20000011,Newport,Casnewydd,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,21776.76,19052.48,0,19052.48
+W20000012,Torfaen,Tor-faen,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,12623.99,12623.99,54.14,12569.85
+W20000013,Monmouthshire,Sir Fynwy,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,88605.35,85027.17,118.37,84908.8
+W20000014,Ardudwy,Ardudwy,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000015,Bangor,Bangor,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000016,Caernarfon,Caernarfon,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000017,De Meirionnydd,De Meirionnydd,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000018,Conwy,Conwy,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,115347.67,113018.44,435.88,112582.56
+W20000019,Penllyn,Penllyn,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000020,Dwyfor,Dwyfor,1111/1001,GSS re-coding strategy,01/01/2009,05/07/2009,,W20,ONS,terminated,,,,
+W20000021,Isle of Anglesey,Ynys Môn,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,74902.27,71445.63,314.74,71130.89
+W20000022,Merthyr Tydfil,Merthyr Tudful,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,11195.7,11195.7,51.06,11144.64
+W20000023,Bridgend,Pen-y-bont ar Ogwr,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,25531.15,25073.03,0,25073.03
+W20000024,Caerphilly,Caerffili,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,27738.78,27738.78,0,27738.78
+W20000025,Rhondda Cynon Taf,Rhondda Cynon Taf,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,42415.04,42415.04,0,42415.04
+W20000026,Brecknock,Brycheiniog,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000027,Mid Powys,Powys Ganol,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000028,Hay,Y Gelli,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000029,Machynlleth,Machynlleth,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000030,Newtown,Drenewydd,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000031,Radnorshire East,Dwyrain Sir Maesyfed,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000032,Welshpool and Llanfyllin,Trallwng a Llanfylin,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000033,Ystradgynlais,Ystradgynlais,1111/1001,GSS re-coding strategy,01/01/2009,31/03/2009,,W20,ONS,terminated,,,,
+W20000034,Cardiff,Caerdydd,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,14951.12,14039.92,0,14039.92
+W20000035,Vale of Glamorgan,Bro Morgannwg,,Name Change,01/01/2013,,,W20,ONS,live,33967.58,33093.7,0,33093.7
+W20000035,The Vale of Glamorgan,Bro Morgannwg,1111/1001,GSS re-coding strategy,01/01/2009,31/12/2012,,W20,ONS,terminated,33967.58,33093.7,0,33093.7
+W20000036,Neath Port Talbot,Castell-nedd Port Talbot,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,45187,44233.54,102.8,44130.74
+W20000037,Swansea,Abertawe,1111/1001,GSS re-coding strategy,01/01/2009,,,W20,ONS,live,42089.8,37971.02,0,37971.02
+W20000038,Powys,Powys,,The Powys Registration Scheme 2009,01/04/2009,,,W20,ONS,live,519543.65,519529.9,1461.94,518067.96
+W20000039,Gwynedd,Gwynedd,,The Gwynedd Registration Scheme 2009,06/07/2009,,,W20,ONS,live,262238,254809.58,1314.99,253494.6
+W20000040,Ceredigion,Ceredigion,,The Ceredigion Registration Scheme 2013,07/03/2013,,,W20,ONS,live,180590.29,178905.11,341.96,178563.15
