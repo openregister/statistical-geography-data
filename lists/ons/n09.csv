@@ -1,0 +1,15 @@
+GEOGCD	GEOGNM	GEOGNMW	SI_ID	SI_TITLE	OPER_DATE	TERM_DATE	PARENTCD	ENTITYCD	OWNER	STATUS	AREAEHECT	AREACHECT	AREAIHECT	AREALHECT
+N09000001	Antrim and Newtownabbey		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	72786.28	72786.28	15588.99	57197.29
+N09000002	Armagh City, Banbridge and Craigavon			Name Change	24/02/2016			N09	NISRA	live	143598.06	143598.06	9938.64	133659.42
+N09000002	Armagh, Banbridge and Craigavon		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015	23/02/2016		N09	NISRA	terminated	143598.06	143598.06	9938.64	133659.42
+N09000003	Belfast		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	13247.62	13247.62	0	13247.62
+N09000004	Causeway Coast and Glens		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	198007.83	198007.83	0	198007.83
+N09000005	Derry City and Strabane			Name Change	24/02/2016			N09	NISRA	live	123862.62	123862.62	16.03	123846.59
+N09000005	Derry and Strabane		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015	23/02/2016		N09	NISRA	terminated	123862.62	123862.62	16.03	123846.59
+N09000006	Fermanagh and Omagh		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	300596.58	300596.58	14943.42	285653.16
+N09000007	Lisburn and Castlereagh		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	51031.19	51031.19	496.68	50534.51
+N09000008	Mid and East Antrim		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	104880.51	104880.51	243.82	104636.69
+N09000009	Mid Ulster		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	195505.65	195505.65	12832.22	182673.43
+N09000010	Newry, Mourne and Down		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015			N09	NISRA	live	163745.43	163745.43	458.17	163287.26
+N09000011	Ards and North Down			Name Change	24/02/2016			N09	NISRA	live	46076.48	46076.48	0	46076.48
+N09000011	North Down and Ards		7/2008	Local Government (Boundaries) Act (Northern Ireland) 2008	01/04/2015	23/02/2016		N09	NISRA	terminated	46076.48	46076.48	0	46076.48
